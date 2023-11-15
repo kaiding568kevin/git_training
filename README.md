@@ -1,6 +1,6 @@
 # GitHub for Developers
 
-- Class Date: 11.05.2023
+- Class Date: 11-15-2023
 - Facilitator: Madelyn CEI
 - Name Kai Ding
 
