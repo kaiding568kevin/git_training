@@ -1,7 +1,8 @@
 # GitHub for Developers
 
-- Class Date: THIS-DATE
-- Facilitator: @TEACHER-HANDLE
+- Class Date: 11.05.2023
+- Facilitator: Madelyn
+- Name Kai Ding
 
 ## Class Resources
 
